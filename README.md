@@ -58,6 +58,15 @@ MLOps • CI/CD • Deployment • Generative AI
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shinobi9511/Shinobi9511/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+
 ## 🎯 2026 Growth Roadmap
 
 - 🚀 Build **10+ Production-Grade ML Systems**
