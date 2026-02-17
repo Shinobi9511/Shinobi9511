@@ -2,7 +2,7 @@
 <h3 align="center">Data Science Enthusiast | AI & Machine Learning Practitioner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;AI+%7C+Machine+Learning+Engineer;Building+End-to-End+ML+Projects;Regression+%7C+Classification+%7C+Generative+AI;Learning+MLOps+and+Scalable+Deployment;More+Projects+Coming+Soon+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;AI+%7C+Machine+Learning+Engineer" />
 </p>
 
 ---
@@ -54,14 +54,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shinobi9511&theme=tokyonight" />
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shinobi9511&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
