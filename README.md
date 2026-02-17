@@ -57,7 +57,6 @@ MLOps • CI/CD • Deployment • Generative AI
 </p>
 
 ---
----
 
 ## 🐍 Contribution Snake
 
