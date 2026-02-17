@@ -50,19 +50,6 @@ MLOps • CI/CD • Deployment • Generative AI
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shinobi9511&show_icons=true&hide_border=true&count_private=true" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shinobi9511&hide_border=true" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinobi9511&layout=compact&hide_border=true"/>
-</p>
-
----
-
 ## 📈 Contribution Overview
 
 <p align="center">
