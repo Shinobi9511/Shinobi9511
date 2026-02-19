@@ -27,7 +27,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;→ Streamlit application powered by SVM classifier <p> <a href="https://github.com/Shinobi9511/Student_Score"> <img src="https://img.shields.io/badge/View%20Repository-1E90FF?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> 
 
 🔹 **The Lab of Dr. Frankencode**  
-&nbsp;&nbsp;&nbsp;&nbsp;→ Collection of experimental Python & AI implementations <p> <a href="https://github.com/Shinobi9511/The_Lab_of_Dr_Frankencode"> <img src="https://img.shields.io/badge/View%20Repository-1E90FF?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>  
+&nbsp;&nbsp;&nbsp;&nbsp;→ Collection of experimental Python & AI implementations <p> <a href="https://github.com/Shinobi9511/The_Lab_of_Dr_Frankencode"> <img src="https://img.shields.io/badge/View%20Repository-1E90FF?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+
+🔹 **House_Price_Prediction** 
+&nbsp;&nbsp;&nbsp;&nbsp;→ House Price Predictor App <p> <a href="https://github.com/Shinobi9511/House_Price_Prediction"> <img src="https://img.shields.io/badge/View%20Repository-1E90FF?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
 
 ---
 
