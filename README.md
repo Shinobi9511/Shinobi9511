@@ -17,21 +17,47 @@
 - 🚀 Scaling ML solutions from **EDA → Model → API → Deployment**
 
 ---
-
 ## 🧩 Featured Projects
 
+🔹 **COVID-19 Global Analytics & Prediction Dashboard**  
+&nbsp;&nbsp;&nbsp;&nbsp;→ End-to-End ML pipeline with dynamic Streamlit dashboard & deployment  
+<p>
+  <a href="https://github.com/Shinobi9511/CVID19">
+    <img src="https://img.shields.io/badge/View%20Repository-1E90FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+🔹 **House Price Prediction System**  
+&nbsp;&nbsp;&nbsp;&nbsp;→ Regression-based ML app with model comparison & deployment  
+<p>
+  <a href="https://github.com/Shinobi9511/House_Price_Prediction">
+    <img src="https://img.shields.io/badge/View%20Repository-1E90FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 🔹 **Stock Price Prediction App**  
-&nbsp;&nbsp;&nbsp;&nbsp;→ Machine Learning web app using Python & Scikit-learn <p> <a href="https://github.com/Shinobi9511/stock-price-prediction-app"> <img src="https://img.shields.io/badge/View%20Repository-1E90FF?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> 
+&nbsp;&nbsp;&nbsp;&nbsp;→ Machine Learning-based financial forecasting system  
+<p>
+  <a href="https://github.com/Shinobi9511/stock-price-prediction-app">
+    <img src="https://img.shields.io/badge/View%20Repository-1E90FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 🔹 **Student Score Predictor**  
-&nbsp;&nbsp;&nbsp;&nbsp;→ Streamlit application powered by SVM classifier <p> <a href="https://github.com/Shinobi9511/Student_Score"> <img src="https://img.shields.io/badge/View%20Repository-1E90FF?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> 
+&nbsp;&nbsp;&nbsp;&nbsp;→ Classification-based Streamlit application using SVM  
+<p>
+  <a href="https://github.com/Shinobi9511/Student_Score">
+    <img src="https://img.shields.io/badge/View%20Repository-1E90FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 🔹 **The Lab of Dr. Frankencode**  
-&nbsp;&nbsp;&nbsp;&nbsp;→ Collection of experimental Python & AI implementations <p> <a href="https://github.com/Shinobi9511/The_Lab_of_Dr_Frankencode"> <img src="https://img.shields.io/badge/View%20Repository-1E90FF?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-
-🔹 **House_Price_Prediction** 
-&nbsp;&nbsp;&nbsp;&nbsp;→ Streamlit application powered by Regression algorithms <p> <a href="https://github.com/Shinobi9511/House_Price_Prediction"> <img src="https://img.shields.io/badge/View%20Repository-1E90FF?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-
+&nbsp;&nbsp;&nbsp;&nbsp;→ Experimental AI & Python implementations  
+<p>
+  <a href="https://github.com/Shinobi9511/The_Lab_of_Dr_Frankencode">
+    <img src="https://img.shields.io/badge/View%20Repository-1E90FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 ---
 
 ## 🛠️ Tech Stack
