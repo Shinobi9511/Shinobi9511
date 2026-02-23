@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 - 🎯 Actively building real-world **Data Science & AI systems**
-- 📊 Completed **3 End-to-End Machine Learning projects**
+- 📊 Completed **6 End-to-End Machine Learning projects**
 - 🤖 Strong focus on **Regression & Classification modeling**
 - 🧠 Currently exploring **Generative AI & LLM-based applications**
 - ⚙️ Learning **MLOps & Deployment pipelines**
