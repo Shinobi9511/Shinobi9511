@@ -51,10 +51,10 @@
   </a>
 </p>
 
-🔹 **The Lab of Dr. Frankencode**  
-&nbsp;&nbsp;&nbsp;&nbsp;→ Experimental AI & Python implementations  
+🔹 **Python_Projects = 10-Complete Projects**  
+&nbsp;&nbsp;&nbsp;&nbsp;→ Experimental Python implementations  
 <p>
-  <a href="https://github.com/Shinobi9511/The_Lab_of_Dr_Frankencode">
+  <a href="https://github.com/Shinobi9511/Python-">
     <img src="https://img.shields.io/badge/View%20Repository-1E90FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
