@@ -19,10 +19,10 @@
 ---
 ## 🧩 Featured Projects
 
-🔹 **COVID-19 Global Analytics & Prediction Dashboard**  
-&nbsp;&nbsp;&nbsp;&nbsp;→ End-to-End ML pipeline with dynamic Streamlit dashboard & deployment  
+🔹 **Video Game Global Sales Prediction**  
+&nbsp;&nbsp;&nbsp;&nbsp;→ End-to-end Machine Learning pipeline to predict global video game sales.  
 <p>
-  <a href="https://github.com/Shinobi9511/CVID19">
+  <a href="https://github.com/Shinobi9511/Game_sales">
     <img src="https://img.shields.io/badge/View%20Repository-1E90FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
